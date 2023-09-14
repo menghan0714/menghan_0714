@@ -1,0 +1,4 @@
+" import pandas as pd\n",
+"\n",
+"csv_file_path1_rank1 = 'rank 1.csv'\n",
+"csv_file_path2_rank2 = 'rank 2.csv'\n",
