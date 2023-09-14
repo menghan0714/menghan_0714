@@ -1,4 +1,17 @@
-" import pandas as pd\n",
-"\n",
-"csv_file_path1_rank1 = 'rank 1.csv'\n",
-"csv_file_path2_rank2 = 'rank 2.csv'\n",
+# pandas是Python程式語言的用於資料操縱和分析的軟體庫
+import pandas as pd
+# 設定 CSV 檔案的路徑
+csv_file_path_rank1 = 'rank_1.csv'
+csv_file_path_rank2 = 'rank_2.csv'
+
+# 使用 pandas 的 read_csv 函式讀取 CSV 檔案並將其轉換為 DataFrame
+# DataFrame可用來儲存雙維度的資料
+df_rank1 = pd.read_csv(csv_file_path_rank1)
+df_rank2 = pd.read_csv(csv_file_path_rank2)
+# 從 DataFrame 中取出欄位
+song_names__rank1 = df_rank1['歌名']
+song_names_rank2 = df_rank2['歌名']
+# 將學生名稱轉換為 set 資料型態
+song_names_rank1_set = set(song_names_rank1)
+song_names_rank2_set = set(song_names_rank2)
+print(song_names_rank1_set & song_names_rank2_set)
