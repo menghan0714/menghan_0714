@@ -4,3 +4,5 @@
 系級: 科技系二年級
 ## 課程筆記區(chatGPT問答)
 [HW1_chatGPT問答紀錄](https://docs.google.com/document/d/1afYrHqR9uLPz_1ZareN8f8sZn1BjBZEY6BU58yLTd0s/edit?usp=sharing)
+
+## 課後練習區
