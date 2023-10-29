@@ -6,6 +6,6 @@
 [HW1_chatGPT問答紀錄](https://docs.google.com/document/d/1afYrHqR9uLPz_1ZareN8f8sZn1BjBZEY6BU58yLTd0s/edit?usp=sharing)
 
 ## 課後練習區
-1. HW1:
+1. HW1:  
 [HW1_資料合併(jupyter)](https://jupyter.org/try-jupyter/lab?path=notebooks%2FHW1_practice.ipynb)
-[HW1_資料合併(gogole colab)](https://colab.research.google.com/drive/1GmaZjiD_qD1cTRrQptocXQteQx4BYt70?usp=sharing)https://colab.research.google.com/drive/1GmaZjiD_qD1cTRrQptocXQteQx4BYt70?usp=sharing)
+[HW1_資料合併(gogole colab)](https://colab.research.google.com/drive/1GmaZjiD_qD1cTRrQptocXQteQx4BYt70?usp=sharing)
