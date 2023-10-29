@@ -8,5 +8,5 @@
 ## 小試身手練習區
 1. HW1:  
 [HW1_資料合併(jupyter)](https://jupyter.org/try-jupyter/lab?path=notebooks%2FHW1_practice.ipynb)  
-[HW1_資料合併(gogole colab)](https://colab.research.google.com/drive/1GmaZjiD_qD1cTRrQptocXQteQx4BYt70?usp=sharing)
+[HW1_資料合併(gogole colab)](https://colab.research.google.com/drive/1GmaZjiD_qD1cTRrQptocXQteQx4BYt70?usp=sharing)  
 [HW1_資料合併並視覺化(gogole colab)](https://colab.research.google.com/drive/1dGOQa5LycYRT5oOoQFMYjPza-9Kydcim?usp=sharing)
