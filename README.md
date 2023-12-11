@@ -11,8 +11,14 @@
 [資料合併(gogole colab)](https://colab.research.google.com/drive/1GmaZjiD_qD1cTRrQptocXQteQx4BYt70?usp=sharing)  
 [資料合併並視覺化(gogole colab)](https://colab.research.google.com/drive/1dGOQa5LycYRT5oOoQFMYjPza-9Kydcim?usp=sharing)
 
+2. HW2:
+[根據資料提問三個問題並回答+視覺化資料(gogole colab)](https://colab.research.google.com/drive/1JUTO5kaPww2cFOQT-aHZuRbhIWEf2k3S?usp=sharing)
+
 ## 作業連結區
 1. HW1(資料合併並視覺化):  
 [性別薪資差距](https://colab.research.google.com/drive/1Y8AFjkx3lp9OWHS4qangn9gTrSKjqDmJ?usp=sharing)
+
+2. HW2(資料合併並根據資料提問三個問題並回答):
+[臺南觀光景點](https://colab.research.google.com/drive/18IpvAmWTyodewv9jBpTIwtf9vuhVGiZ_?usp=drive_link)
 
 ## 專題連結區
