@@ -4,7 +4,7 @@
 系級: 科技系二年級
 
 ## 網頁筆記區(chatGPT問答)
-[python繪圖工具(plotly)]((https://plotly.com/python/)  
+[python繪圖工具(plotly)](https://plotly.com/python/)  
 [python dictionary](https://www.codecademy.com/learn/dscp-python-fundamentals/modules/dscp-python-dictionaries/cheatsheet)  
 [jason 語法視覺化](https://jsoncrack.com/)  
 ## 課程筆記區(chatGPT問答)
