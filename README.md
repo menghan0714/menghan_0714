@@ -6,7 +6,7 @@
 ## 網頁筆記區(chatGPT問答)
 [python繪圖工具(plotly)](https://plotly.com/python/)  
 [python dictionary](https://www.codecademy.com/learn/dscp-python-fundamentals/modules/dscp-python-dictionaries/cheatsheet)  
-[jason 語法視覺化](https://jsoncrack.com/)  
+[json 語法視覺化](https://jsoncrack.com/)  
 ## 課程筆記區(chatGPT問答)
 [HW1_chatGPT問答紀錄](https://docs.google.com/document/d/1afYrHqR9uLPz_1ZareN8f8sZn1BjBZEY6BU58yLTd0s/edit?usp=sharing)  
 [HW2_chatGPT問答紀錄(1)](https://chat.openai.com/c/7451525e-b6d2-4113-a6bf-27a411120700)    
