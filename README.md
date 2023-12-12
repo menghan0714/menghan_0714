@@ -2,10 +2,15 @@
 授課教師: 蔡芸琤 老師  
 姓名: 吳孟涵    
 系級: 科技系二年級
+
+## 網頁筆記區(chatGPT問答)
+[python繪圖工具(plotly)]((https://plotly.com/python/)  
+[python dictionary](https://www.codecademy.com/learn/dscp-python-fundamentals/modules/dscp-python-dictionaries/cheatsheet)  
+[jason 語法視覺化](https://jsoncrack.com/)  
 ## 課程筆記區(chatGPT問答)
-[HW1_chatGPT問答紀錄](https://docs.google.com/document/d/1afYrHqR9uLPz_1ZareN8f8sZn1BjBZEY6BU58yLTd0s/edit?usp=sharing)
-[HW2_chatGPT問答紀錄](https://chat.openai.com/c/7451525e-b6d2-4113-a6bf-27a411120700)  
-(https://chat.openai.com/c/871904e9-03db-4ac3-8cf6-ba44eccb30cf)
+[HW1_chatGPT問答紀錄](https://docs.google.com/document/d/1afYrHqR9uLPz_1ZareN8f8sZn1BjBZEY6BU58yLTd0s/edit?usp=sharing)  
+[HW2_chatGPT問答紀錄(1)](https://chat.openai.com/c/7451525e-b6d2-4113-a6bf-27a411120700)    
+[HW2_chatGPT問答紀錄(2)](https://chat.openai.com/c/871904e9-03db-4ac3-8cf6-ba44eccb30cf)  
 
 ## 小試身手練習區
 1. HW1:  
