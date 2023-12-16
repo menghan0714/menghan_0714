@@ -23,7 +23,7 @@
 [根據資料提問三個問題並回答+視覺化資料(gogole colab)](https://colab.research.google.com/drive/1JUTO5kaPww2cFOQT-aHZuRbhIWEf2k3S?usp=sharing)
 
 3. HW3:  
-[將資料轉換成JSON格式(gogole colab)](https://colab.research.google.com/drive/1TrGmomZvHroc3Tc-mfET1W-YmCFFXPrm?usp=sharing)
+[將資料轉換成JSON格式(gogole colab)](https://colab.research.google.com/drive/1TrGmomZvHroc3Tc-mfET1W-YmCFFXPrm?usp=sharing)  
 [資料正則化實作(gogole colab)](https://colab.research.google.com/drive/1P5g2AfUZhQ2lTJTwBCvMOEXoGnCyC260?usp=sharing)  
 
 ## 作業連結區
