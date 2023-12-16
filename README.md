@@ -3,7 +3,7 @@
 姓名: 吳孟涵    
 系級: 科技系二年級
 
-## 網頁筆記區(chatGPT問答)
+## 網頁筆記區
 [python繪圖工具(plotly)](https://plotly.com/python/)  
 [python dictionary](https://www.codecademy.com/learn/dscp-python-fundamentals/modules/dscp-python-dictionaries/cheatsheet)  
 [json 語法視覺化](https://jsoncrack.com/)  
