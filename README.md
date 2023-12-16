@@ -11,6 +11,7 @@
 [HW1_chatGPT問答紀錄](https://docs.google.com/document/d/1afYrHqR9uLPz_1ZareN8f8sZn1BjBZEY6BU58yLTd0s/edit?usp=sharing)  
 [HW2_chatGPT問答紀錄(1)](https://chat.openai.com/c/7451525e-b6d2-4113-a6bf-27a411120700)    
 [HW2_chatGPT問答紀錄(2)](https://chat.openai.com/c/871904e9-03db-4ac3-8cf6-ba44eccb30cf)  
+[HW3_chatGPT問答紀錄](https://chat.openai.com/c/86ecc4f0-d800-4944-9669-90c746b15af3)  
 
 ## 小試身手練習區
 1. HW1:  
@@ -21,11 +22,18 @@
 2. HW2:  
 [根據資料提問三個問題並回答+視覺化資料(gogole colab)](https://colab.research.google.com/drive/1JUTO5kaPww2cFOQT-aHZuRbhIWEf2k3S?usp=sharing)
 
+3. HW3:
+[將資料轉換成JSON格式(gogole colab)](https://colab.research.google.com/drive/1TrGmomZvHroc3Tc-mfET1W-YmCFFXPrm?usp=sharing)
+[資料正則化實作(gogole colab)](https://colab.research.google.com/drive/1P5g2AfUZhQ2lTJTwBCvMOEXoGnCyC260?usp=sharing)  
+
 ## 作業連結區
 1. HW1(資料合併並視覺化):  
 [性別薪資差距](https://colab.research.google.com/drive/1Y8AFjkx3lp9OWHS4qangn9gTrSKjqDmJ?usp=sharing)
 
 2. HW2(資料合併並根據資料提問三個問題並回答):  
 [臺南觀光景點](https://colab.research.google.com/drive/18IpvAmWTyodewv9jBpTIwtf9vuhVGiZ_?usp=drive_link)
+
+3. HW3(爬蟲練習以及作業):  
+ [ptt中政治板的討論情形](https://colab.research.google.com/drive/1Wrbccp5PufarEoqIjKnW4w0VQrdfHJO_?usp=sharing)  
 
 ## 專題連結區
