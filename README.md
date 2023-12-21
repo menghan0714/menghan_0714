@@ -40,7 +40,7 @@
 [維基百科_反對逃犯條例修訂草案運動文字雲](https://colab.research.google.com/drive/1xTp0gMni-u-pcS8l1PdFFC6ECCNDZu2z?usp=sharing)  
 [資料視覺化_文字雲(Medium)](https://medium.com/@grace115306/資料視覺化-文字雲-706b5ae98934)  
 
-5. HW5(文字探勘-LDA模型):  
+5. HW5(文字探勘-LDA模型):    
 [維基百科_俄烏戰爭LDA模型](https://colab.research.google.com/drive/1oeKnNfl_QvjYO5-iDp3XmyexHgsfsytQ?usp=sharing)  
 [資料分析_LDA模型(Medium)](https://medium.com/@grace115306/資料分析-lda模型生成-5961bb4ea0ca)  
 
