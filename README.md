@@ -36,8 +36,12 @@
 3. HW3(爬蟲練習以及作業):  
  [ptt中政治板的討論情形](https://colab.research.google.com/drive/1Wrbccp5PufarEoqIjKnW4w0VQrdfHJO_?usp=sharing)  
 
-4. HW4(文字雲生成作業):  
+4. HW4(文字探勘-文字雲):  
 [維基百科_反對逃犯條例修訂草案運動文字雲](https://colab.research.google.com/drive/1xTp0gMni-u-pcS8l1PdFFC6ECCNDZu2z?usp=sharing)  
-[資料視覺化_文字雲(Medium)](https://medium.com/@grace115306/資料視覺化-文字雲-706b5ae98934)  
+[資料視覺化_文字雲(Medium)](https://medium.com/@grace115306/資料視覺化-文字雲-706b5ae98934)
+
+5. HW5(文字探勘-LDA模型):
+[維基百科_俄烏戰爭LDA模型](https://colab.research.google.com/drive/1oeKnNfl_QvjYO5-iDp3XmyexHgsfsytQ?usp=sharing)  
+[資料分析_LDA模型(Medium)](https://medium.com/@grace115306/資料分析-lda模型生成-5961bb4ea0ca)  
 
 ## 專題連結區
