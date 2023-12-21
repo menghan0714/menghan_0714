@@ -38,6 +38,6 @@
 
 4. HW4(文字雲生成練習):  
 [維基百科_反對逃犯條例修訂草案運動文字雲生成](https://colab.research.google.com/drive/1xTp0gMni-u-pcS8l1PdFFC6ECCNDZu2z?usp=sharing)  
-[資料視覺化_文字雲](https://medium.com/@grace115306/資料視覺化-文字雲-706b5ae98934)  
+[資料視覺化_文字雲(Medium)](https://medium.com/@grace115306/資料視覺化-文字雲-706b5ae98934)  
 
 ## 專題連結區
