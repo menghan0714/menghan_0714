@@ -44,4 +44,3 @@
 [維基百科_俄烏戰爭LDA模型](https://colab.research.google.com/drive/1oeKnNfl_QvjYO5-iDp3XmyexHgsfsytQ?usp=sharing)  
 [資料分析_LDA模型(Medium)](https://medium.com/@grace115306/資料分析-lda模型生成-5961bb4ea0ca)  
 
-## 專題連結區
